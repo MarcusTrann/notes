@@ -7,4 +7,7 @@
 - Monday
   - 13:00 - COMP1238 - Intro Data
   - 16:00 - COMP1151 - IT Essential
-- [COMP1238 notes](comp1238.md)
+# My COMP1238 Notes
+
+[COMP1238 notes](comp1238.md)
+
